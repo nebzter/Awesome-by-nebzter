@@ -10,7 +10,7 @@
 - [metafloor](https://github.com/metafloor/bwip-js)
 - [TEC-IT](https://barcode.tec-it.com/en)
 
-## Thai
+## Thailand
 
 ### Excel, Google Sheet, Web App, API Tutorial
 - [prasertcbs](https://www.youtube.com/c/prasertcbs/videos)
