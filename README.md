@@ -3,58 +3,58 @@
 [StackEdit](https://stackedit.io/app)
 
 ## ☁️⚙️ API
-### QR Code
+### QR Code & Barcode ║█║▌║█║▌│║▌║▌█║
 - [goQR.me](https://goqr.me/api/)
 - [Google Charts API](https://developers.google.com/chart/infographics/docs/qr_codes)
 - [metafloor](https://github.com/metafloor/bwip-js)
 - [TEC-IT](https://barcode.tec-it.com/en)
 
 ## 🎨 Graphic Design
-### Remove Background
+### ✂️ Remove Background
 - [Clipdrop: Remove background](https://clipdrop.co/remove-background)
 - [photoroom-background-remover](https://www.photoroom.com/background-remover)
 - [Depositphotos bgremover](https://th.depositphotos.com/bgremover.html)
 - [withoutbg.com](https://withoutbg.com/remove-background)
 - [erase.bg](https://www.erase.bg)
 
-### Inpainting
+### 🖌️ Inpainting
 - [Cleanup.pictures](https://cleanup.pictures)
 - [Hama](https://www.hama.app)
 - [photoroom.com-remove-object-from-photo](https://www.photoroom.com/tools/remove-object-from-photo)
 
-### AI Generate Image
+### 🧙‍♂️ AI Generate Image
 - [Photoroom Background (Stable Diffusion)](https://www.photoroom.com/backgrounds)
 - [Craiyon (DALL-E Mini)](https://www.craiyon.com)
 
-### AI Relight
+### ✨ AI Relight
 - [Clipdrop - Relight](https://clipdrop.co/relight)
 
-### Image Upscaler
+### 🔍 Image Upscaler
 - [Clipdrop Image upscaler](https://clipdrop.co/image-upscaler)
 
-### Free Stock Image
+### 🖼️ Free Stock Image
 - [Pixabay](https://pixabay.com)
 - [Pexels](https://www.pexels.com)
 - [Unsplash](https://unsplash.com)
 
-### Color Tools
+### 🌈 Color Tools
 - [Adobe Color](https://color.adobe.com/create)
 - [Color Tool - Material Deisign](https://material.io/resources/color)
 
 
 ## 🇹🇭 Thailand
-### Excel, Google Sheet, Web App, API Tutorial
+### 🎓 Excel, Google Sheet, Web App, API Tutorial
 - [prasertcbs](https://www.youtube.com/c/prasertcbs/videos)
 - [ครูอภิวัฒน์"สอนสร้างสื่อ"](https://www.youtube.com/c/ApiwatWongkanha/videos)
 - [9EXPERT](https://www.youtube.com/c/9expert/videos)
 - [ครูแพรว - เพลินนิ่ง Channel](https://www.youtube.com/c/PlearningExcel/videos)
 - [BorntoDev](https://www.youtube.com/c/BorntodevTH/videos)
-### Thailand Goverment
+### 🏛️ Thailand Goverment
 - [ระบบกล้องโทรทัศน์วงจรปิด (cctv) ตรวจวัดและรายงานสภาพการจราจร](http://www.bmatraffic.com/index.aspx)
 - [สำนักการระบายน้ำ](https://weather.bangkok.go.th/)
 - [Open Government Data of Thailand](https://data.go.th/)
 -  [สถาบันสารสนเทศทรัพยากรน้ำ(องค์การมหาชน)](https://www.thaiwater.net/)
-### Intersting Data From data.go.th
+### 🗃️ Intersting Data From data.go.th
 - [ข้อมูลทรัพยากร : ข้อมูลพิกัด LAT/LONG ที่บ่งชี้ชื่อตำบล อำเภอ จังหวัด](https://data.go.th/dataset/item_c6d42e1b-3219-47e1-b6b7-dfe914f27910)
 - [รายงาน COVID-19 ประจำวัน ข้อมูลประจำประเทศไทย](https://data.go.th/dataset/covid-19-daily)
 - [จำนวนประชากรในประเทศไทย แยกตามพื้นที่](https://data.go.th/dataset/statbyyear)
