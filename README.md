@@ -49,6 +49,11 @@
 - [9EXPERT](https://www.youtube.com/c/9expert/videos)
 - [ครูแพรว - เพลินนิ่ง Channel](https://www.youtube.com/c/PlearningExcel/videos)
 - [BorntoDev](https://www.youtube.com/c/BorntodevTH/videos)
+### 🎚️🎛️ Audio Mixing & Mastering Tutorial
+- [จอร์จ Sevendogs Mix Mastering สอน](https://www.youtube.com/c/GeorgeSevendogs/videos)
+- [Atom Mix & Master](https://www.youtube.com/channel/UCvdlrVsOZ3T3a352BrZbZew/videos)
+- [TONG APOLLO](https://www.youtube.com/c/TongApollo/videos)
+- [HYE TUNWA](https://www.youtube.com/channel/UC18_J_38k_s0_GGV4ix2Xtg/videos)
 ### 🏛️ Thailand Goverment
 - [ระบบกล้องโทรทัศน์วงจรปิด (cctv) ตรวจวัดและรายงานสภาพการจราจร](http://www.bmatraffic.com/index.aspx)
 - [สำนักการระบายน้ำ](https://weather.bangkok.go.th/)
