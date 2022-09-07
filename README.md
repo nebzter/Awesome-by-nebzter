@@ -20,6 +20,6 @@
 
 ### Thailand Goverment
 
-- http://www.bmatraffic.com/index.aspx
-- https://weather.bangkok.go.th/
+- [ระบบกล้องโทรทัศน์วงจรปิด (cctv) ตรวจวัดและรายงานสภาพการจราจร](http://www.bmatraffic.com/index.aspx)
+- [สำนักการระบายน้ำ](https://weather.bangkok.go.th/)
 - [Open Government Data of Thailand](https://data.go.th/)
