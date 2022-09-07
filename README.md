@@ -8,6 +8,7 @@
 - [goQR.me](https://goqr.me/api/)
 - [Google Charts API](https://developers.google.com/chart/infographics/docs/qr_codes)
 - [metafloor](https://github.com/metafloor/bwip-js)
+- [TEC-IT](https://barcode.tec-it.com/en)
 
 ## Thai
 
