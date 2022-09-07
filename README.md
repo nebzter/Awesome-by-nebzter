@@ -9,6 +9,9 @@
 - [metafloor](https://github.com/metafloor/bwip-js)
 - [TEC-IT](https://barcode.tec-it.com/en)
 
+### Open API
+- [Open Government Data of Thailand](https://data.go.th/)
+
 ## 🎨 Graphic Design
 ### Remove Background
 - [Clipdrop: Remove background](https://clipdrop.co/remove-background)
@@ -52,6 +55,14 @@
 ### Thailand Goverment
 - [ระบบกล้องโทรทัศน์วงจรปิด (cctv) ตรวจวัดและรายงานสภาพการจราจร](http://www.bmatraffic.com/index.aspx)
 - [สำนักการระบายน้ำ](https://weather.bangkok.go.th/)
-- [Open Government Data of Thailand](https://data.go.th/)https://cleanup.pictures)
-- https://www.hama.app)
-- https://www.photoroom.com/tools/remove-object-from-photo)
+- [Open Government Data of Thailand](https://data.go.th/)
+
+## 🏎️ Auto Parts Data
+
+- https://www.toyodiy.com/parts/xref
+- https://www.epc-data.com/
+- https://www.epcdata.ru/
+- https://www.amayama.com/en
+- https://www.japan-parts.eu/
+- https://www.cars.com/research/
+- https://partsouq.com/
