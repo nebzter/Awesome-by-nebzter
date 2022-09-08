@@ -54,12 +54,13 @@
 - [Atom Mix & Master](https://www.youtube.com/channel/UCvdlrVsOZ3T3a352BrZbZew/videos)
 - [TONG APOLLO](https://www.youtube.com/c/TongApollo/videos)
 - [HYE TUNWA](https://www.youtube.com/channel/UC18_J_38k_s0_GGV4ix2Xtg/videos)
-### 🏛️ Thailand Goverment
+### 🏛️ Thailand Goverment & Foundation
 - [ระบบกล้องโทรทัศน์วงจรปิด (cctv) ตรวจวัดและรายงานสภาพการจราจร](http://www.bmatraffic.com/index.aspx)
 - [สำนักการระบายน้ำ](https://weather.bangkok.go.th/)
 - [Open Government Data of Thailand](https://data.go.th/)
 -  [คลังข้อมูลน้ำแห่งชาติ](https://www.thaiwater.net/)
 - [สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)](https://www.hii.or.th/)
+- [สภาพจราจรล่าสุด มูลนิธิศูนย์ข้อมูลจราจรอัจฉริยะไทย](https://live.iticfoundation.org/)
 ### 🗃️ Intersting Data From data.go.th
 - [ข้อมูลทรัพยากร : ข้อมูลพิกัด LAT/LONG ที่บ่งชี้ชื่อตำบล อำเภอ จังหวัด](https://data.go.th/dataset/item_c6d42e1b-3219-47e1-b6b7-dfe914f27910)
 - [รายงาน COVID-19 ประจำวัน ข้อมูลประจำประเทศไทย](https://data.go.th/dataset/covid-19-daily)
