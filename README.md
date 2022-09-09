@@ -103,3 +103,5 @@
 - [akhaliq/JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
 - [akhaliq/GFPGAN](https://huggingface.co/spaces/akhaliq/GFPGAN)
 - [huggingface/diffuse-the-rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
+- [Gradio-Blocks/DualStyleGAN](https://huggingface.co/spaces/Gradio-Blocks/DualStyleGAN)
+- [CVPR/DualStyleGAN](https://huggingface.co/spaces/CVPR/DualStyleGAN)
