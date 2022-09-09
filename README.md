@@ -91,6 +91,8 @@
 - https://partsouq.com/
 
 ## 🤗 Hugging Face
+
+### Space
 -  [radames/Depth-Image-to-Autostereogram](https://huggingface.co/spaces/radames/Depth-Image-to-Autostereogram)
 - [CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model](https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model)
 - [keras-io/Enhance_Low_Light_Image](https://huggingface.co/spaces/keras-io/Enhance_Low_Light_Image)
