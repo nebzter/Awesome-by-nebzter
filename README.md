@@ -89,3 +89,15 @@
 - https://www.japan-parts.eu/
 - https://www.cars.com/research/
 - https://partsouq.com/
+
+## 🤗 Hugging Face
+-  [radames/Depth-Image-to-Autostereogram](https://huggingface.co/spaces/radames/Depth-Image-to-Autostereogram)
+- [CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model](https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model)
+- [keras-io/Enhance_Low_Light_Image](https://huggingface.co/spaces/keras-io/Enhance_Low_Light_Image)
+-  [ECCV2022/Screen_Image_Demoireing](https://huggingface.co/spaces/ECCV2022/Screen_Image_Demoireing)
+- [manhkhanhUIT/Image_Restoration_Colorization](https://huggingface.co/spaces/manhkhanhUIT/Image_Restoration_Colorization)
+- [Detomo/Lighten-dark-image](https://huggingface.co/spaces/Detomo/Lighten-dark-image)
+- [bookbot/Image-Upscaling-Playground](https://huggingface.co/spaces/bookbot/Image-Upscaling-Playground)
+- [akhaliq/JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
+- [akhaliq/GFPGAN](https://huggingface.co/spaces/akhaliq/GFPGAN)
+- [huggingface/diffuse-the-rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
