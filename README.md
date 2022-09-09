@@ -41,6 +41,15 @@
 - [Adobe Color](https://color.adobe.com/create)
 - [Color Tool - Material Deisign](https://material.io/resources/color)
 
+### 📖✔️❌ Brand Guidelines
+- [Toyota Visual Identity System (VIS)](https://www.toyota.com/brandguidelines/)
+- [Slack](https://slack.com/media-kit/slack-brand-guidelines)
+- [Uber](https://brand.uber.com/)
+- [Audi](https://www.audi.com/ci/en/intro/brand-appearance.html)
+- [Netflix](https://brand.netflix.com/)
+- [Spotify](https://developer.spotify.com/documentation/general/design-and-branding/)
+- [NASA](https://standardsmanual.com/products/nasa-graphics-standards-manual)
+- [NYCTA](https://standardsmanual.com/products/nyctacompactedition)
 
 ## 🇹🇭 Thailand
 ### 🎓 Excel, Google Sheet, Web App, API Tutorial
