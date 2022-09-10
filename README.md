@@ -105,3 +105,6 @@
 - [huggingface/diffuse-the-rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
 - [Gradio-Blocks/DualStyleGAN](https://huggingface.co/spaces/Gradio-Blocks/DualStyleGAN)
 - [CVPR/DualStyleGAN](https://huggingface.co/spaces/CVPR/DualStyleGAN)
+- [tomofi/EasyOCR](https://huggingface.co/spaces/tomofi/EasyOCR)
+- [pytorch/MiDaS](https://huggingface.co/spaces/pytorch/MiDaS)
+- [PaddlePaddle/ERNIE-ViLG](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
