@@ -108,6 +108,9 @@
 - [tomofi/EasyOCR](https://huggingface.co/spaces/tomofi/EasyOCR)
 - [pytorch/MiDaS](https://huggingface.co/spaces/pytorch/MiDaS)
 - [PaddlePaddle/ERNIE-ViLG](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
+- [sd-concepts-library/stable-diffusion-conceptualizer](https://huggingface.co/spaces/sd-concepts-library/stable-diffusion-conceptualizer)
+- [multimodalart/latentdiffusion](https://huggingface.co/spaces/multimodalart/latentdiffusion)
+- [stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
 ## Chrome Extensions
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
