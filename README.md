@@ -24,6 +24,7 @@
 
 ### 🧙‍♂️ AI Generate Image
 - [Photoroom Background (Stable Diffusion)](https://www.photoroom.com/backgrounds)
+- [Lexica - The Stable Diffusion search engine](https://lexica.art/)
 - [Craiyon (DALL-E Mini)](https://www.craiyon.com)
 
 ### ✨ AI Relight
