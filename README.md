@@ -52,6 +52,11 @@
 - [NASA](https://standardsmanual.com/products/nasa-graphics-standards-manual)
 - [NYCTA](https://standardsmanual.com/products/nyctacompactedition)
 
+### 🔤 Font (Free)
+- [Google Font](https://fonts.google.com/)
+- [Dafont](https://www.dafont.com/)
+- [Font Squirrel](https://www.fontsquirrel.com/)
+
 ## 🇹🇭 Thailand
 ### 🎓 Excel, Google Sheet, Web App, API Tutorial
 - [prasertcbs](https://www.youtube.com/c/prasertcbs/videos)
@@ -130,3 +135,4 @@
 - [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
 - [Change Case](https://chrome.google.com/webstore/detail/change-case/lpakoahdokkkonadfppfgmednkknpgbm)
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+- [QuillBot for Chrome](https://chrome.google.com/webstore/detail/quillbot-for-chrome/iidnbdjijdkbmajdffnidomddglmieko)
