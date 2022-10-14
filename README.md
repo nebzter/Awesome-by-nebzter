@@ -2,12 +2,28 @@
 >This MarkDown edit with
 [StackEdit](https://stackedit.io/app)
 
-## ☁️⚙️ API
+## ☁️⚙️ API & Data
 ### QR Code & Barcode ║█║▌║█║▌│║▌║▌█║
 - [goQR.me](https://goqr.me/api/)
 - [Google Charts API](https://developers.google.com/chart/infographics/docs/qr_codes)
 - [metafloor](https://github.com/metafloor/bwip-js)
 - [TEC-IT](https://barcode.tec-it.com/en)
+
+### 💱 Foreign Exchange Rates
+✔️ Java
+- [Bangkok Bank - Foreign Exchange Rates](https://www.bangkokbank.com/en/Personal/Other-Services/View-Rates/Foreign-Exchange-Rates)
+- [SCB - Foreign Exchange Rates](https://www.scb.co.th/en/personal-banking/foreign-exchange-rates.html)
+- [KBank - Foreign Exchange Rate](https://www.kasikornbank.com/en/rate/pages/foreign-exchange.aspx)
+
+❌Java
+- [Bank of Ayudhya - Daily Exchange Rates](https://www.krungsri.com/en/exchangerate/Todayrates)
+- [TTB - Foreign Exchange](https://www.ttbbank.com/en/rates/exchange-rates)
+- [Bank of Thailand - Foreign Exchange Rates](https://www.bot.or.th/thai/_layouts/application/exchangerate/exchangerate.aspx)
+
+### Other
+- [Open Government Data of Thailand](https://data.go.th/)
+- [Icon Horse - Get any site's favicon](https://icon.horse/)
+
 
 ## 🎨 Graphic Design
 ### ✂️ Remove Background
@@ -64,11 +80,15 @@
 - [9EXPERT](https://www.youtube.com/c/9expert/videos)
 - [ครูแพรว - เพลินนิ่ง Channel](https://www.youtube.com/c/PlearningExcel/videos)
 - [BorntoDev](https://www.youtube.com/c/BorntodevTH/videos)
+- [IT around U](https://www.youtube.com/c/ITaroundU/videos)
+- [บริหารงานแบบคนไอที](https://www.youtube.com/c/%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%84%E0%B8%99%E0%B9%84%E0%B8%AD%E0%B8%97%E0%B8%B5/videos)
+- [ให้คอมทํางาน แล้วเรานั่งดู](https://www.youtube.com/channel/UC7b6xiqn9V-wy0YnBBWFxyQ/videos)
 ### 🎚️🎛️ Audio Mixing & Mastering Tutorial
 - [จอร์จ Sevendogs Mix Mastering สอน](https://www.youtube.com/c/GeorgeSevendogs/videos)
 - [Atom Mix & Master](https://www.youtube.com/channel/UCvdlrVsOZ3T3a352BrZbZew/videos)
 - [TONG APOLLO](https://www.youtube.com/c/TongApollo/videos)
 - [HYE TUNWA](https://www.youtube.com/channel/UC18_J_38k_s0_GGV4ix2Xtg/videos)
+- [โต ติงต๊อง](https://www.youtube.com/c/%E0%B9%82%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%87%E0%B8%95%E0%B9%8A%E0%B8%AD%E0%B8%87/videos)
 ### 🏛️ Thailand Goverment & Foundation
 - [ระบบกล้องโทรทัศน์วงจรปิด (cctv) ตรวจวัดและรายงานสภาพการจราจร](http://www.bmatraffic.com/index.aspx)
 - [สำนักการระบายน้ำ](https://weather.bangkok.go.th/)
