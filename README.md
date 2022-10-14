@@ -14,6 +14,7 @@
 - [Bangkok Bank - Foreign Exchange Rates](https://www.bangkokbank.com/en/Personal/Other-Services/View-Rates/Foreign-Exchange-Rates)
 - [SCB - Foreign Exchange Rates](https://www.scb.co.th/en/personal-banking/foreign-exchange-rates.html)
 - [KBank - Foreign Exchange Rate](https://www.kasikornbank.com/en/rate/pages/foreign-exchange.aspx)
+- [Krungthai - Foreign Exchange Rate](https://exchangerate.krungthai.com/)
 
 ❌Java
 - [Bank of Ayudhya - Daily Exchange Rates](https://www.krungsri.com/en/exchangerate/Todayrates)
