@@ -138,6 +138,8 @@
 - [sd-concepts-library/stable-diffusion-conceptualizer](https://huggingface.co/spaces/sd-concepts-library/stable-diffusion-conceptualizer)
 - [multimodalart/latentdiffusion](https://huggingface.co/spaces/multimodalart/latentdiffusion)
 - [stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+- [lnyan/stablediffusion-infinity](https://huggingface.co/spaces/lnyan/stablediffusion-infinity)
+- [multimodalart/stable-diffusion-inpainting](https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting)
 
 ## Chrome Extensions
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
