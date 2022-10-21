@@ -10,13 +10,14 @@
 - [TEC-IT](https://barcode.tec-it.com/en)
 
 ### 💱 Foreign Exchange Rates
-✔️ Java
+#### ✔️ Java
 - [Bangkok Bank - Foreign Exchange Rates](https://www.bangkokbank.com/en/Personal/Other-Services/View-Rates/Foreign-Exchange-Rates)
 - [SCB - Foreign Exchange Rates](https://www.scb.co.th/en/personal-banking/foreign-exchange-rates.html)
 - [KBank - Foreign Exchange Rate](https://www.kasikornbank.com/en/rate/pages/foreign-exchange.aspx)
 - [Krungthai - Foreign Exchange Rate](https://exchangerate.krungthai.com/)
 
-❌Java
+#### ❌Java
+	
 - [Bank of Ayudhya - Daily Exchange Rates](https://www.krungsri.com/en/exchangerate/Todayrates)
 - [TTB - Foreign Exchange](https://www.ttbbank.com/en/rates/exchange-rates)
 - [Bank of Thailand - Foreign Exchange Rates](https://www.bot.or.th/thai/_layouts/application/exchangerate/exchangerate.aspx)
@@ -24,6 +25,9 @@
 ### Other
 - [Open Government Data of Thailand](https://data.go.th/)
 - [Icon Horse - Get any site's favicon](https://icon.horse/)
+- [สถาบันวิจัยปัญญาประดิษฐ์ประเทศไทย](https://airesearch.in.th/)
+- [AI FOR THAI](https://aiforthai.in.th/)
+- [KITTHAI - ระบบประมวลผลภาษาธรรมชาติภาษาไทย](https://kbtg.openservice.in.th/api/)
 
 
 ## 🎨 Graphic Design
@@ -140,6 +144,7 @@
 - [stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 - [lnyan/stablediffusion-infinity](https://huggingface.co/spaces/lnyan/stablediffusion-infinity)
 - [multimodalart/stable-diffusion-inpainting](https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting)
+- [Tanaanan/Thai-Identification-Card_OCR_Webapp](https://huggingface.co/spaces/Tanaanan/Thai-Identification-Card_OCR_Webapp)
 
 ## Chrome Extensions
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
