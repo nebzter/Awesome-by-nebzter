@@ -63,7 +63,10 @@
 - [Adobe Color](https://color.adobe.com/create)
 - [Color Tool - Material Deisign](https://material.io/resources/color)
 
-### 📖✔️❌ Brand Guidelines
+### 📖✔️❌ Brand / Design Guidelines
+- [Design - Apple Developer](https://developer.apple.com/design/)
+- [Material Design 3](https://m3.material.io/)
+- [Fluent  UI](https://developer.microsoft.com/en-us/fluentui)
 - [Toyota Visual Identity System (VIS)](https://www.toyota.com/brandguidelines/)
 - [Slack](https://slack.com/media-kit/slack-brand-guidelines)
 - [Uber](https://brand.uber.com/)
@@ -154,7 +157,7 @@
 - [Rothfeld/stable-diffusion-mat-outpainting-primer](https://huggingface.co/spaces/Rothfeld/stable-diffusion-mat-outpainting-primer)
 - [lambdalabs/stable-diffusion-image-variationsr](https://huggingface.co/spaces/lambdalabs/stable-diffusion-image-variations)
 
-## Chrome Extensions
+## 🌐🧩 Chrome Extensions
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 - [NSFW Filter](https://chrome.google.com/webstore/detail/nsfw-filter/kmgagnlkckiamnenbpigfaljmanlbbhh)
 - [Wappalyzer - Technology profiler](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
