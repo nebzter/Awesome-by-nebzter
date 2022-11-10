@@ -111,7 +111,7 @@
 - [ข้อมูลพยากรณ์อากาศรายชั่วโมง](https://data.tmd.go.th/nwpapi/doc/apidoc/location/forecast_hourly.html#%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87)
 - [จำนวนนักศึกษาปัจจุบัน จำแนกตามระดับการศึกษา และ เพศ](https://data.go.th/dataset/univ_std_11_01)
 
-## 🏎️ Auto Parts Data
+## 🏎️ Auto Parts Data Research
 
 - https://www.toyodiy.com/parts/xref
 - https://www.epc-data.com/
@@ -120,6 +120,8 @@
 - https://www.japan-parts.eu/
 - https://www.cars.com/research/
 - https://partsouq.com/
+- https://www.favcars.com/
+- https://autocatalogarchive.com/index-brand/
 
 ## 🤗 Hugging Face
 
@@ -145,6 +147,12 @@
 - [lnyan/stablediffusion-infinity](https://huggingface.co/spaces/lnyan/stablediffusion-infinity)
 - [multimodalart/stable-diffusion-inpainting](https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting)
 - [Tanaanan/Thai-Identification-Card_OCR_Webapp](https://huggingface.co/spaces/Tanaanan/Thai-Identification-Card_OCR_Webapp)
+- [lambdalabs/text-to-naruto](https://huggingface.co/spaces/lambdalabs/text-to-naruto)
+- [sayakpaul/maxim-spaces](https://huggingface.co/spaces/sayakpaul/maxim-spaces)
+- [daspartho/prompt-extend](https://huggingface.co/spaces/daspartho/prompt-extend)
+- [Pinwheel/SuperGlue-Image-Matching](https://huggingface.co/spaces/Pinwheel/SuperGlue-Image-Matching)
+- [Rothfeld/stable-diffusion-mat-outpainting-primer](https://huggingface.co/spaces/Rothfeld/stable-diffusion-mat-outpainting-primer)
+- [lambdalabs/stable-diffusion-image-variationsr](https://huggingface.co/spaces/lambdalabs/stable-diffusion-image-variations)
 
 ## Chrome Extensions
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
