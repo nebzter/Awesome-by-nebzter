@@ -124,39 +124,45 @@
 - https://www.japan-parts.eu/
 - https://www.cars.com/research/
 - https://partsouq.com/
+- https://7zap.com/en/
 - https://www.favcars.com/
 - https://autocatalogarchive.com/index-brand/
 
 ## 🤗 Hugging Face
 
-### Space
+### ⭐ Favorite Space
+- [stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+- [daspartho/prompt-extend](https://huggingface.co/spaces/daspartho/prompt-extend)
 -  [radames/Depth-Image-to-Autostereogram](https://huggingface.co/spaces/radames/Depth-Image-to-Autostereogram)
-- [CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model](https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model)
 - [keras-io/Enhance_Low_Light_Image](https://huggingface.co/spaces/keras-io/Enhance_Low_Light_Image)
--  [ECCV2022/Screen_Image_Demoireing](https://huggingface.co/spaces/ECCV2022/Screen_Image_Demoireing)
-- [manhkhanhUIT/Image_Restoration_Colorization](https://huggingface.co/spaces/manhkhanhUIT/Image_Restoration_Colorization)
 - [Detomo/Lighten-dark-image](https://huggingface.co/spaces/Detomo/Lighten-dark-image)
-- [bookbot/Image-Upscaling-Playground](https://huggingface.co/spaces/bookbot/Image-Upscaling-Playground)
-- [akhaliq/JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
-- [akhaliq/GFPGAN](https://huggingface.co/spaces/akhaliq/GFPGAN)
+- [ECCV2022/Screen_Image_Demoireing](https://huggingface.co/spaces/ECCV2022/Screen_Image_Demoireing)
 - [huggingface/diffuse-the-rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
-- [Gradio-Blocks/DualStyleGAN](https://huggingface.co/spaces/Gradio-Blocks/DualStyleGAN)
 - [CVPR/DualStyleGAN](https://huggingface.co/spaces/CVPR/DualStyleGAN)
 - [tomofi/EasyOCR](https://huggingface.co/spaces/tomofi/EasyOCR)
 - [pytorch/MiDaS](https://huggingface.co/spaces/pytorch/MiDaS)
 - [PaddlePaddle/ERNIE-ViLG](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
 - [sd-concepts-library/stable-diffusion-conceptualizer](https://huggingface.co/spaces/sd-concepts-library/stable-diffusion-conceptualizer)
-- [multimodalart/latentdiffusion](https://huggingface.co/spaces/multimodalart/latentdiffusion)
-- [stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 - [lnyan/stablediffusion-infinity](https://huggingface.co/spaces/lnyan/stablediffusion-infinity)
-- [multimodalart/stable-diffusion-inpainting](https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting)
 - [Tanaanan/Thai-Identification-Card_OCR_Webapp](https://huggingface.co/spaces/Tanaanan/Thai-Identification-Card_OCR_Webapp)
-- [lambdalabs/text-to-naruto](https://huggingface.co/spaces/lambdalabs/text-to-naruto)
-- [sayakpaul/maxim-spaces](https://huggingface.co/spaces/sayakpaul/maxim-spaces)
-- [daspartho/prompt-extend](https://huggingface.co/spaces/daspartho/prompt-extend)
 - [Pinwheel/SuperGlue-Image-Matching](https://huggingface.co/spaces/Pinwheel/SuperGlue-Image-Matching)
 - [Rothfeld/stable-diffusion-mat-outpainting-primer](https://huggingface.co/spaces/Rothfeld/stable-diffusion-mat-outpainting-primer)
+
+### Space
+- [CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model](https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model)
+- [manhkhanhUIT/Image_Restoration_Colorization](https://huggingface.co/spaces/manhkhanhUIT/Image_Restoration_Colorization)
+- [bookbot/Image-Upscaling-Playground](https://huggingface.co/spaces/bookbot/Image-Upscaling-Playground)
+- [akhaliq/JoJoGAN](https://huggingface.co/spaces/akhaliq/JoJoGAN)
+- [akhaliq/GFPGAN](https://huggingface.co/spaces/akhaliq/GFPGAN)
+- [Gradio-Blocks/DualStyleGAN](https://huggingface.co/spaces/Gradio-Blocks/DualStyleGAN)
+- [multimodalart/latentdiffusion](https://huggingface.co/spaces/multimodalart/latentdiffusion)
+- [multimodalart/stable-diffusion-inpainting](https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting)
+- [lambdalabs/text-to-naruto](https://huggingface.co/spaces/lambdalabs/text-to-naruto)
+- [sayakpaul/maxim-spaces](https://huggingface.co/spaces/sayakpaul/maxim-spaces)
 - [lambdalabs/stable-diffusion-image-variationsr](https://huggingface.co/spaces/lambdalabs/stable-diffusion-image-variations)
+- [LuChengTHU/dpmsolver_sdm](https://huggingface.co/spaces/LuChengTHU/dpmsolver_sdm)
+- [BilalSardar/Voice-Cloning](https://huggingface.co/spaces/BilalSardar/Voice-Cloning)
+- [ryparmar/fashion-aggregator](https://huggingface.co/spaces/ryparmar/fashion-aggregator)
 
 ## 🌐🧩 Chrome Extensions
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
