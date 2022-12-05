@@ -84,6 +84,7 @@
 
 ## 🇹🇭 Thailand
 ### 🎓 Excel, Google Sheet, Web App, API Tutorial
+- [เทพเอ็กเซล : Thep Excel](https://www.youtube.com/@ThepExcel/videos)
 - [prasertcbs](https://www.youtube.com/c/prasertcbs/videos)
 - [ครูอภิวัฒน์"สอนสร้างสื่อ"](https://www.youtube.com/c/ApiwatWongkanha/videos)
 - [9EXPERT](https://www.youtube.com/c/9expert/videos)
