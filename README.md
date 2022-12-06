@@ -135,6 +135,8 @@
 - [stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 - [daspartho/prompt-extend](https://huggingface.co/spaces/daspartho/prompt-extend)
 -  [radames/Depth-Image-to-Autostereogram](https://huggingface.co/spaces/radames/Depth-Image-to-Autostereogram)
+- [beihai/Remove-Background-By-U2Net](https://huggingface.co/spaces/beihai/Remove-Background-By-U2Net)
+- [skytnt/anime-remove-background](https://huggingface.co/spaces/skytnt/anime-remove-background)
 - [keras-io/Enhance_Low_Light_Image](https://huggingface.co/spaces/keras-io/Enhance_Low_Light_Image)
 - [Detomo/Lighten-dark-image](https://huggingface.co/spaces/Detomo/Lighten-dark-image)
 - [ECCV2022/Screen_Image_Demoireing](https://huggingface.co/spaces/ECCV2022/Screen_Image_Demoireing)
