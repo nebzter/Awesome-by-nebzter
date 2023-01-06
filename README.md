@@ -25,10 +25,15 @@
 ### Other
 - [Open Government Data of Thailand](https://data.go.th/)
 - [Icon Horse - Get any site's favicon](https://icon.horse/)
+
+## 🤖🧠 AI
+- [ChatGPT - OpenAI](https://chat.openai.com/)
+- [Code completion - OpenAI](https://beta.openai.com/codex-javascript-sandbox)
+-  [Playground - OpenAI](https://beta.openai.com/playground)
+-  [Excel Formulator](https://excelformulator.com/signin)
+- [KITTHAI - ระบบประมวลผลภาษาธรรมชาติภาษาไทย](https://kbtg.openservice.in.th/api/)
 - [สถาบันวิจัยปัญญาประดิษฐ์ประเทศไทย](https://airesearch.in.th/)
 - [AI FOR THAI](https://aiforthai.in.th/)
-- [KITTHAI - ระบบประมวลผลภาษาธรรมชาติภาษาไทย](https://kbtg.openservice.in.th/api/)
-
 
 ## 🎨 Graphic Design
 ### ✂️ Remove Background
