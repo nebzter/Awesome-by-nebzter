@@ -1,4 +1,6 @@
-# Awesome
+# Awesome by *nebzter*
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 >This MarkDown edit with
 [StackEdit](https://stackedit.io/app)
 
@@ -155,6 +157,8 @@
 - [Tanaanan/Thai-Identification-Card_OCR_Webapp](https://huggingface.co/spaces/Tanaanan/Thai-Identification-Card_OCR_Webapp)
 - [Pinwheel/SuperGlue-Image-Matching](https://huggingface.co/spaces/Pinwheel/SuperGlue-Image-Matching)
 - [Rothfeld/stable-diffusion-mat-outpainting-primer](https://huggingface.co/spaces/Rothfeld/stable-diffusion-mat-outpainting-primer)
+- [RamAnanth1/FairDiffusion](https://huggingface.co/spaces/RamAnanth1/FairDiffusion)
+- [huggingface-projects/diffusers-gallery](https://huggingface.co/spaces/huggingface-projects/diffusers-gallery)
 
 ### Space
 - [CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model](https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model)
