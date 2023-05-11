@@ -61,14 +61,16 @@
 ### 🔍 Image Upscaler
 - [Clipdrop Image upscaler](https://clipdrop.co/image-upscaler)
 
-### 🖼️ Free Stock Image
+### 🖼️ Free Image & Vector
 - [Pixabay](https://pixabay.com)
 - [Pexels](https://www.pexels.com)
 - [Unsplash](https://unsplash.com)
+- [SVG Repo](https://www.svgrepo.com/)
 
 ### 🌈 Color Tools
 - [Adobe Color](https://color.adobe.com/create)
 - [Color Tool - Material Deisign](https://material.io/resources/color)
+- [](https://materialui.co/colors/)
 - [PDGi - Colour Contrast Analyser (CCA)](https://www.tpgi.com/color-contrast-checker/)
 
 ### 📖✔️❌ Brand / Design Guidelines
@@ -94,6 +96,7 @@
 - [เทพเอ็กเซล : Thep Excel](https://www.youtube.com/@ThepExcel/videos)
 - [prasertcbs](https://www.youtube.com/c/prasertcbs/videos)
 - [ครูอภิวัฒน์"สอนสร้างสื่อ"](https://www.youtube.com/c/ApiwatWongkanha/videos)
+- [Excel NaNa](https://www.youtube.com/@ExcelNaNa/videos)
 - [9EXPERT](https://www.youtube.com/c/9expert/videos)
 - [ครูแพรว - เพลินนิ่ง Channel](https://www.youtube.com/c/PlearningExcel/videos)
 - [BorntoDev](https://www.youtube.com/c/BorntodevTH/videos)
@@ -159,6 +162,8 @@
 - [Rothfeld/stable-diffusion-mat-outpainting-primer](https://huggingface.co/spaces/Rothfeld/stable-diffusion-mat-outpainting-primer)
 - [RamAnanth1/FairDiffusion](https://huggingface.co/spaces/RamAnanth1/FairDiffusion)
 - [huggingface-projects/diffusers-gallery](https://huggingface.co/spaces/huggingface-projects/diffusers-gallery)
+- [bigcode/bigcode-playground](https://huggingface.co/spaces/bigcode/bigcode-playground)
+- [mosaicml/mpt-7b-instruct](https://huggingface.co/spaces/mosaicml/mpt-7b-instruct)
 
 ### Space
 - [CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model](https://huggingface.co/spaces/CVPR/Image-Animation-using-Thin-Plate-Spline-Motion-Model)
